@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305878623219",
+    "project_id": "tepstagram",
+    "storage_bucket": "tepstagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305878623219:android:4fa9356900765b42e86886",
+        "android_client_info": {
+          "package_name": "com.example.tepstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305878623219-33v890pjk8slfss4eaocth6jakm0ot5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZagwcmSRJH-oHKxHrKot2r9XPT88iKIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305878623219-33v890pjk8slfss4eaocth6jakm0ot5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
